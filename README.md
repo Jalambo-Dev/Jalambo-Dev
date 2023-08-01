@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jalambo-Dev
 - 👀 I’m interested in tech
-- 🚀 I’m currently learning FLutter 
+- 🚀 I’m currently learning Flutter Developing ➡️ android & iOS apps 📲 
 
 
 <!---
