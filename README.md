@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Jalambo-Dev
+# 👋 Hi, I’m Ahmed Jalambo @Jalambo-Dev
 
 Welcome to my GitHub profile! I'm passionate about technology and am currently diving deep into the world of Flutter development.
 
